@@ -17,7 +17,7 @@ function GetAppointment() {
           <Button title="Contact us today" />
         </div>
       </div>
-      <hr className="bg-black h-[2px] mb-6" />
+      
     </>
   );
 }
